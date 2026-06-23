@@ -35,11 +35,11 @@
 		"lint-staged": "^13.0.3",
 		"ts-jest": "^29.0.3",
 		"typescript": "4.8.4",
-		"zx": "^7.1.1"
+		"zx": "^8.8.5"
 	},
 	"dependencies": {
 		"@cognigy/extension-tools": "^0.14.0",
-		"axios": "0.27.2",
-		"fast-xml-parser": "^4.0.11"
+		"axios": "1.18.1",
+		"fast-xml-parser": "^5.7.0"
 	}
 }
