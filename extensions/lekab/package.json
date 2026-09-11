@@ -21,7 +21,7 @@
     "@cognigy/extension-tools": "^0.14.0",
     "axios": "^0.21.4",
     "fatal": "^0.0.1",
-    "qs": "^6.11.2",
+    "qs": "^6.16.0",
     "tslint": "^6.1.2"
   },
   "devDependencies": {
